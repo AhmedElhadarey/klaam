@@ -1,5 +1,6 @@
 librosa
 jiwer
+flask
 ffmpeg-python
 transformers
 datasets
